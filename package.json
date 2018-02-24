@@ -1,0 +1,28 @@
+{
+  "name": "node-reptile",
+  "version": "1.0.0",
+  "description": "node简单爬虫实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.14.1",
+    "eslint": "^4.12.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "iconv-lite": "^0.4.19",
+    "inquirer": "^5.1.0",
+    "lodash": "^4.17.5",
+    "mysql": "^2.15.0",
+    "ora": "^1.4.0"
+  }
+}
